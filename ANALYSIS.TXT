@@ -1,0 +1,163 @@
+
+
+      no of distinctions        2070
+
+      no of 1st divisions         444
+
+      no of 2nd divisions           0
+
+      no of 3rd divisions           0
+
+      SUBJECT WISE DISTINCTIONS  
+
+      ENGLISH FUNCTIONAL           273 / 287   95%
+      ENGLISH CORE                 135 / 157   86%
+      MATHS OVERALL                258 / 343   75%
+      MATHS MAIN                   253 / 329   77%
+      MATHS ADDT                   5 / 14   36%
+      PHYSICS                      248 / 287   86%
+      CHEMISTRY                    232 / 287   81%
+      BIOLOGY                      37 / 40   93%
+      BIOTECH                      13 / 14   93%
+      ECONOMICS                    112 / 126   89%
+      FINE ARTS  OVERALL           34 / 34   100%
+      FINE ARTS  MAIN SUB          17 / 17   100%
+      FINE ARTS  ADDL.             17 / 17   100%
+      BUSINESS ST.                 85 / 103   83%
+      ACCOUNTS                     59 / 103   57%
+      INFORMATICS                  85 / 85   100%
+      INFORMATICS  MAIN SUB        85 / 85   100%
+      INFORMATICS  ADDL SUB        0 / 0   **********%
+      PHYSICAL ED                  32 / 34   94%
+      PHYSICAL  MAIN SUB           28 / 29   97%
+      PHYSICAL  ADDL SUB           4 / 5   80%
+      PSYCHOLOGY                   30 / 33   91%
+      MUSIC                        134 / 135   99%
+      MUSIC  MAIN SUB              25 / 25   100%
+      MUSIC  ADDL SUB              109 / 110   99%
+      COMPUTER SC                  36 / 36   100%
+      HISTORY                      26 / 33   79%
+      POL. SC.                     34 / 40   85%
+      GEOGRAPHY                    17 / 20   85%
+      FASHION STUD.                10 / 10   100%
+      FASHION ST  MAIN SUB         10 / 10   100%
+      FASHION ST  ADDL SUB         0 / 0   **********%
+      LEGAL STUDIES OVERALL        12 / 13   92%
+      LSTHS MAIN                   9 / 10   90%
+      LEGAL STUD ADDT              3 / 3   100%
+      GEOSPATIAL OVERALL           82 / 87   94%
+      GEO SP MAIN                  82 / 87   94%
+      GEP SP ADDT                  0 / 0   **********%
+      BANKING                      30 / 31   97%
+      INSURANCE OVERALL            7 / 7   100%
+      SOCIOLOGY                    15 / 20   75%
+      ENTREPRENEURSHIP             22 / 33   67%
+      HOME SCIENCE                 12 / 12   100%
+
+      CLASS AVERAGES
+
+      PCM GROUP                          88.53
+
+      PCB GROUP                          90.42
+
+      COMM WITH MATHS GROUP              89.90
+
+      COMM WITHOUT MATHS GROUP           80.89
+
+      HUMANITIES GROUP                   88.72
+
+      SCIENCE AVERAGE                    88.72
+
+      COMMERCE AVERAGE                   86.88
+
+      HUMANITIES AVERAGE                 88.72
+
+      SCHOOL AVERAGE                     88.29
+
+      STUDENTS GETTING 90 % AND ABOVE
+
+      ENGLISH  FUNCTIONAL               204   71%
+      ENGLISH  CORE                     92   59%
+      MATHS    OVERALL                  179   52%
+      MATHS    MAIN SUB                 176   53%
+      MATHS    ADDL SUB                 3   21%
+      PHYSICS                           131   46%
+      CHEMISTRY                         130   45%
+      BIOLOGY                           23   58%
+      BIO TECH                          9   64%
+      FINE ARTS                         21   62%
+      FINE ARTS    MAIN SUB             10   59%
+      FINE ARTS    ADDL SUB             11   65%
+      ECONOMICS                         75   60%
+      BUSINESS ST.                      55   53%
+      ACCOUNTS                          38   37%
+      INFORMATICS                       67   79%
+      INFORMATICS   MAIN SUB            67   79%
+      INFORMATICS    ADDL SUB           0   **********%
+      PHYSICAL EDU.                     10   29%
+      PHYSICAL EDU    MAIN SUB          8   28%
+      PHYSICAL EDU ADDL SUB             2   40%
+      MUSIC                             71   53%
+      MUSIC   MAIN SUB                  24   96%
+      MUSIC    ADDL SUB                 47   43%
+      COMPUTER SC.                      25   69%
+      PSYCHOLOGY                        16   48%
+      HISTORY                           14   42%
+      POL SC                            22   55%
+      GEOGRAPHY                         7   35%
+      FASHION STUD.                     7   70%
+      FASHION STUD.  MAIN SUB           7   70%
+      FASHION STUD.    ADDL SUB         0   **********%
+      Legal STUD.                       10   77%
+      Legal STUD.  MAIN SUB             8   80%
+      Legal STUD.    ADDL SUB           2   67%
+      Geospatial                        65   75%
+      Geospatial  MAIN SUB              65   75%
+      Geospatial    ADDL SUB            0   **********%
+      SOCIOLOGY                         12   60%
+      ENTREPRENEURSHIP                  10   30%
+      HOME SCIENCE                      11   92%
+
+           TOP 10 RANKERS SCIENCE STREAM 
+
+      1                  UTKARSH PRAKASH      98.00
+      2                  SAURABH BARANWAL     97.80
+      3                  SRUTI SUBRAMANIAM    97.60
+      4                  SWASTI JAIN          97.60
+      5                  HARSHIT JAIN         97.40
+      6                  SHIVANGI SINGH       97.20
+      7                  HITESH KUMAR         97.20
+      8                  TARSH VERMA          97.00
+      9                  NAVJOT SINGH         97.00
+     10                  POOJA YADAV          96.80
+
+
+           TOP 10 RANKERS COMMERCE STREAM 
+
+      1                  ISHIKA GOEL          98.60
+      2                  KHUSHI GAUR          98.20
+      3                  ANSHI GARG           98.00
+      4                  SAURABH ARORA        97.60
+      5                  PRATYUSHA            97.60
+      6                  KALASH VATS          97.40
+      7                  MANSI SARDA          97.20
+      8                  AARUSHI KHANDELWAL   97.20
+      9                  ANUSHKA TYAGI        97.00
+     10                  NAVISHA GOEL         96.80
+     11                  AARYAN SINGH         96.80
+     12                  MALVIKA GUPTA        96.80
+
+
+           TOP 10 RANKERS HUMANITIES STREAM 
+
+      1                  UNNATI GOEL          98.80
+      2                  SHIVANI GOSWAMI      98.80
+      3                  GUNEET KAUR          98.60
+      4                  ARSHIYA AGARWAL      98.20
+      5                  MANSI KWATRA         98.00
+      6                  SHIKHAR YADAV        97.80
+      7                  MANIKA SINGH         97.20
+      8                  ISHITA SINGH         97.00
+      9                  DEVANSHI TEOTIA      97.00
+     10                  TANISHA GUPTA        96.40
+     11                  RADHIKA RAGHUVANSHI  96.40
